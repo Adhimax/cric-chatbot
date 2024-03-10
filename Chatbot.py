@@ -6,7 +6,7 @@ from langchain.vectorstores import FAISS
 from langchain.chains.question_answering import load_qa_chain
 from langchain_community.chat_models import ChatOpenAI
 
-OPENAI_API_KEY = "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"  # openAI key
+OPENAI_API_KEY = "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"  # openAI key
 
 #upload pdf file
 st.header("Your Cric Chatbot")
